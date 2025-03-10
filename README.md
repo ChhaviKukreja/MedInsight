@@ -32,19 +32,22 @@ The model is trained on a dataset containing symptoms and corresponding diseases
 ### *Prerequisites*
 Ensure you have Python installed. Then, install the required dependencies using:
 
-bash
+```bash
 pip install pandas numpy scikit-learn matplotlib
+```
 
 
 ### *Clone the Repository*
-bash
+```bash
 git clone https://github.com/your-username/MediPredict.git
 cd MediPredict
+```
 
 
 ### *Run the Model*
-bash
+```bash
 python disease_prediction.py
+```
 
 
 ---
@@ -61,7 +64,9 @@ python
 from model import predict_disease
 
 symptoms = ["fever", "cough", "fatigue"]
+
 prediction = predict_disease(symptoms)
+
 print(f"Predicted Disease: {prediction}")
 
 
