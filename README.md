@@ -1,4 +1,4 @@
-# *MediPredict - Disease Prediction Using Machine Learning*
+# *MedInsight - Disease Prediction Using Machine Learning*
 
 A machine learning model for predicting diseases based on user-input symptoms. This project leverages classification algorithms to provide accurate disease predictions using a dataset of symptoms and corresponding diagnoses.
 
