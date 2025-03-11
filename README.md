@@ -39,8 +39,8 @@ pip install pandas numpy scikit-learn matplotlib
 
 ### *Clone the Repository*
 ```bash
-git clone https://github.com/your-username/MediPredict.git
-cd MediPredict
+git clone https://github.com/your-username/MedInsight.git
+cd MedInsight
 ```
 
 
